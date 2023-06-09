@@ -1,0 +1,3 @@
+# POLYNOMIAL_REGRESSION_ENERGY_EFFICENCY_DATASET
+POLYNOMIAL_REGRESSION_ENERGY_EFFICENCY_DATASET
+Multiple linear regression models are trained on the training data to predict heating load and cooling load, and these models are used to make predictions on the test data. The accuracy of the predictions is evaluated using decision tree classifiers with entropy and gini criteria, and the corresponding accuracy scores are displayed. In summary, the code performs data preprocessing, trains regression models, and evaluates prediction accuracy using decision tree classifiers for heating load and cooling load prediction.
